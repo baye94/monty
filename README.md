@@ -477,6 +477,5 @@ There are 17 valid operation codes:
 
 ## Team
 
-Monicah Odipo - [Github](https://github.com/MonahDipsy) || [Twitter](https://twitter.com/odipo_monicah)
-
-Omara Augustine - [Github](https://github.com/omara256) || [Twitter](https://twitter.com/ugaSwap)
+Baye cheikh Fall - [Github](https://github.com/baye94) 
+Mathias Dib Faye - [Github](https://github.com/#) || 
